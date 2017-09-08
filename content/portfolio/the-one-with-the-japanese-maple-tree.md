@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4334/36920478726_f38f635f38_o_d.jpg"
+image = "https://farm5.staticflickr.com/4334/36920478726_ee120e8273_z_d.jpg"
 title = "The One With the Japanese Maple Tree"
 weight = 10
 +++

@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4411/36920474366_68e7cf9d05_o_d.jpg"
+image = "https://farm5.staticflickr.com/4411/36920474366_2098c634b1_z_d.jpg"
 title = "Frosted Maple Leaf"
 weight = 0
 +++

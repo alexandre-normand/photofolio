@@ -447,7 +447,7 @@ SIDEBAR + RIGHT COLUMN
   margin-top: 10px;
 }
 .small-navbar-heading a {
-  color: #000;
+  color: #898989;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -455,7 +455,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .small-navbar-heading a:hover {
   border-bottom: dotted 1px #2065a1;
-  color: #000;
+  color: #898989;
   text-decoration: none;
 }
 /*

@@ -4,14 +4,5 @@ title = "About me"
 +++
 
 My story, like everyone else's, constantly rewrites itself. I grew up and lived most of my life in beautiful Québec. I've always been attracted to creative work (drawing, writing, even scuplting?) but didn't think I had it in me. With the pressure of school and modernity, I went into software engineering. I found it pretty easy (and natural?) while getting that sense of creativity (not always but sometimes). I was happy doing this for a while until I grew annoyed enough that my work wasn't contributing to anything meaningful and then I searched for some work that would provide that meaning. So in 2012, my family and I moved to California so I could work for Opower to reduce energy consumption and save the world.
- 
-![This is me](https://farm4.staticflickr.com/3233/3096539427_44d8718f01_b_d.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-#### Education
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+{{% fig class="full" src="https://farm4.staticflickr.com/3233/3096539427_44d8718f01_b_d.jpg" %}}

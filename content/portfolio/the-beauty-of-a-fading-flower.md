@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4370/36712557210_d82be2b8ac_o_d.jpg"
+image = "https://farm5.staticflickr.com/4370/36712557210_e1b5ddb3f9_z_d.jpg"
 title = "The Beauty of a Fading Flower"
 weight = 10
 +++

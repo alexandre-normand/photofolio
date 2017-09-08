@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4378/36920468656_5a66e56364_o_d.jpg"
+image = "https://farm5.staticflickr.com/4378/36920468656_25d953acfe_z_d.jpg"
 title = "Magical Frosted Pebbles"
 weight = 10
 +++
