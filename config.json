@@ -1,0 +1,19 @@
+{
+    "title": "Alexandre Normand Photography",
+    "contentdir": "content",
+    "layoutdir": "layouts",
+    "publishdir": "public",
+    "languageCode": "en-us",
+    "copyright": "All rights reserved.", 
+    "author": {
+       "name": "Alexandre Normand"
+    },
+    "builddrafts": false,
+    "indexes": {
+       "category": "categories",
+       "tag": "tags"
+    },
+    "baseurl": "http://photo.heyitsalex.net/",
+    "footnotereturnlinkcontents": "↩",
+    "canonifyurls": true
+}
