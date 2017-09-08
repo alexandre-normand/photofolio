@@ -13,7 +13,7 @@
        "category": "categories",
        "tag": "tags"
     },
-    "baseurl": "http://photo.heyitsalex.net/",
+    "baseURL": "http://photo.heyitsalex.net/",
     "footnotereturnlinkcontents": "↩",
     "canonifyurls": true,
     "disqusShortname": "hey-its-alex",
