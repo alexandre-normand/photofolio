@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://photo.heyitsalex.net/about/</loc>
-    <lastmod>2017-09-08T11:51:00-07:00</lastmod>
+    <loc>http://photo.heyitsalex.net/portfolio/fog-blanket/</loc>
   </url>
   
   <url>
-    <loc>http://photo.heyitsalex.net/</loc>
-    <priority>0</priority>
+    <loc>http://photo.heyitsalex.net/portfolio/from-the-giants/</loc>
+  </url>
+  
+  <url>
+    <loc>http://photo.heyitsalex.net/portfolio/frosted-stones/</loc>
+  </url>
+  
+  <url>
+    <loc>http://photo.heyitsalex.net/portfolio/the-beauty-of-a-fading-flower/</loc>
+  </url>
+  
+  <url>
+    <loc>http://photo.heyitsalex.net/portfolio/the-one-with-the-japanese-maple-tree/</loc>
+  </url>
+  
+  <url>
+    <loc>http://photo.heyitsalex.net/about/</loc>
+    <lastmod>2017-09-08T11:51:00-07:00</lastmod>
   </url>
   
   <url>
@@ -19,6 +34,11 @@
   
   <url>
     <loc>http://photo.heyitsalex.net/portfolio/frosted-maple-leaf/</loc>
+  </url>
+  
+  <url>
+    <loc>http://photo.heyitsalex.net/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

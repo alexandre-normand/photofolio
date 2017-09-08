@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alexandre Normand Photography</title>
+    <title>Photo Portfolio</title>
     <link>http://photo.heyitsalex.net/</link>
-    <description>Recent content on Alexandre Normand Photography</description>
+    <description>Recent content on Photo Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Alexandre Normand</copyright>
@@ -12,12 +12,57 @@
     
     
     <item>
+      <title>Fog Blanket</title>
+      <link>http://photo.heyitsalex.net/portfolio/fog-blanket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://photo.heyitsalex.net/portfolio/fog-blanket/</guid>
+      <description>  A quiet foggy morning view from Land&amp;#39;s End   </description>
+    </item>
+    
+    <item>
+      <title>From the Giants</title>
+      <link>http://photo.heyitsalex.net/portfolio/from-the-giants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://photo.heyitsalex.net/portfolio/from-the-giants/</guid>
+      <description>  Very handsome sequoia pine cone.   </description>
+    </item>
+    
+    <item>
+      <title>Magical Frosted Pebbles</title>
+      <link>http://photo.heyitsalex.net/portfolio/frosted-stones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://photo.heyitsalex.net/portfolio/frosted-stones/</guid>
+      <description>  I love little natural pattens like this one. The fact that the stones have frost on them really makes me feel good, for some reason.   </description>
+    </item>
+    
+    <item>
+      <title>The Beauty of a Fading Flower</title>
+      <link>http://photo.heyitsalex.net/portfolio/the-beauty-of-a-fading-flower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://photo.heyitsalex.net/portfolio/the-beauty-of-a-fading-flower/</guid>
+      <description>  This accidentally uprooted flower lived a few days inside before drying up. And, quite naturally, her dried up look was quite beautiful and I couldn&amp;#39;t help but try to freeze the image in time.   </description>
+    </item>
+    
+    <item>
+      <title>The One With the Japanese Maple Tree</title>
+      <link>http://photo.heyitsalex.net/portfolio/the-one-with-the-japanese-maple-tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://photo.heyitsalex.net/portfolio/the-one-with-the-japanese-maple-tree/</guid>
+      <description>  We have a friendly Japanese Maple Tree that is home in our yarn. It&amp;#39;s a dwarf tree so it&amp;#39;s small and has the shape of an umbrella. This tree makes the perfect small hiding place and/or shelter. As you can tell from the look here, adults might not always be welcome.   </description>
+    </item>
+    
+    <item>
       <title>Frosted Maple Leaf</title>
       <link>http://photo.heyitsalex.net/portfolio/frosted-maple-leaf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://photo.heyitsalex.net/portfolio/frosted-maple-leaf/</guid>
-      <description>  Frozen Maple Leaf. This proved to be one of those distractions that, for a few minutes, provided relief from constantly thinking about the past or the future. I think.   </description>
+      <description>  This proved to be one of those distractions that, for a few minutes, provided relief from constantly thinking about the past or the future. I think.   </description>
     </item>
     
   </channel>
