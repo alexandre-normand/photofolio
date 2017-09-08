@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandre Normand Photography</title>
+    <link>http://photo.heyitsalex.net/</link>
+    <description>Recent content on Alexandre Normand Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Alexandre Normand</copyright>
+    
+	<atom:link href="http://photo.heyitsalex.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frosted Maple Leaf</title>
+      <link>http://photo.heyitsalex.net/portfolio/frosted-maple-leaf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://photo.heyitsalex.net/portfolio/frosted-maple-leaf/</guid>
+      <description>  Frozen Maple Leaf. This proved to be one of those distractions that, for a few minutes, provided relief from constantly thinking about the past or the future. I think.   </description>
+    </item>
+    
+  </channel>
+</rss>
