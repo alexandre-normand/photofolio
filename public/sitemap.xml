@@ -19,6 +19,10 @@
   </url>
   
   <url>
+    <loc>http://photo.heyitsalex.net/portfolio/the-old-friend/</loc>
+  </url>
+  
+  <url>
     <loc>http://photo.heyitsalex.net/portfolio/the-one-with-the-japanese-maple-tree/</loc>
   </url>
   
@@ -37,6 +41,10 @@
   </url>
   
   <url>
+    <loc>http://photo.heyitsalex.net/portfolio/morning-sun/</loc>
+  </url>
+  
+  <url>
     <loc>http://photo.heyitsalex.net/</loc>
     <priority>0</priority>
   </url>
@@ -49,6 +57,14 @@
   <url>
     <loc>http://photo.heyitsalex.net/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://photo.heyitsalex.net/portfolio/the-one-with-the-basket-under-snow/</loc>
+  </url>
+  
+  <url>
+    <loc>http://photo.heyitsalex.net/portfolio/wally-the-cutting-board/</loc>
   </url>
   
 </urlset>
