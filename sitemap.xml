@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://photo.heyitsalex.net/about/</loc>
+    <lastmod>2017-09-08T11:51:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://photo.heyitsalex.net/</loc>
     <priority>0</priority>
   </url>
