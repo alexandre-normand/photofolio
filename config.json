@@ -1,5 +1,5 @@
 {
-    "title": "Alexandre Normand Photography",
+    "title": "Photo Portfolio",
     "contentdir": "content",
     "layoutdir": "layouts",
     "publishdir": "public",
@@ -19,18 +19,30 @@
     "disqusShortname": "hey-its-alex",
     "theme": "dimension",
     "params": {
-       "style": "blue",
+       "style": "dark",
        "description": "Photography from my mind, hearth and eye", 
        "copyright": "&copy;2017 Alexandre Normand",
-       "sidebarAbout": ["I do some photography when the inspiration comes. Here's some of my work which I hope speaks to you."],
+       "sidebarAbout": ["My name is Alexandre Normand. I do some photography when the inspiration comes. Here's some it. I hope you'll find something that speaks to you."],
+       "navlinks": [
+          {"name": "Home",
+           "url": ""
+          },
+          {"name": "About",
+           "url": "about/"
+          },
+          {"name": "Writings",
+           "url": "http://heyitsalex.net",
+           "absolute": true
+          }
+       ],
        "email": "alexandre.normand@gmail.com",
        "social": {
           "email": "alexandre.normand@gmail.com",
           "twitter": "https://twitter.com/alex_normand",
-          "linkedin": "http://linkedin.com/in/alexandrenormand/",
           "instagram": "https://www.instagram.com/heyhoitsalex/", 
           "github": "https://github.com/alexandre-normand", 
-          "500px": "https://500px.com/alexnormand"
+          "fivehundredpx": "https://500px.com/alexnormand",
+          "flickr": "http://flickr.com/photos/alexnormand/"
        }
     }
 }
