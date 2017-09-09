@@ -3,6 +3,10 @@ date = "2017-09-08T11:51:00-07:00"
 title = "About me"
 +++
 
-My story, like everyone else's, constantly rewrites itself. I grew up and lived most of my life in beautiful Québec. I've always been attracted to creative work (drawing, writing, even scuplting?) but didn't think I had it in me. With the pressure of school and modernity, I went into software engineering. I found it pretty easy (and natural?) while getting that sense of creativity (not always but sometimes). I was happy doing this for a while until I grew annoyed enough that my work wasn't contributing to anything meaningful and then I searched for some work that would provide that meaning. So in 2012, my family and I moved to California so I could work for Opower to reduce energy consumption and save the world.
+My story, like everyone else's, constantly rewrites itself. Today, I'd say that I grew up and lived most of my life in beautiful Québec but with a conventional modern lifestyle. My family and I moved in 2012 to the west coast of the United States and, like all major life events, I found myself transformed by the experience. I'm still to this day discovering the world more than I've ever before and discovering myself in the process. 
 
-{{% fig class="full" src="https://farm4.staticflickr.com/3233/3096539427_44d8718f01_b_d.jpg" %}}
+This portfolio reflects one of this most recent attempts at learning about myself and the world. I'm on a hiatus from my software engineering work and I'd like to see if I can focus on more creative work and maybe earn a little money from it. This means checking if my photography has an audience that it speaks to and if that audicence attributes it some value. 
+
+If you see something that you like even if you don't have the money to spend on art, I'd love to hear from you. Just [write me](mailto:alexandre.normand@gmail.com).
+
+{{% fig class="full" src="https://farm8.staticflickr.com/7513/15624041670_6766377478_z_d.jpg" %}}
