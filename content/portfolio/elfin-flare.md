@@ -6,4 +6,4 @@ title = "Elfin Flare"
 weight = 10
 +++
 
-{{% fig class="full" src="https://farm9.staticflickr.com/8501/8328050009_1b30e5fcd4_o_d.jpg" %}}
+{{% fig class="full" src="https://farm9.staticflickr.com/8501/8328050009_1b30e5fcd4_o_d.jpg" for-sale="true" %}}

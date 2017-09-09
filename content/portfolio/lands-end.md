@@ -6,4 +6,4 @@ title = "Land's End"
 weight = 20
 +++
 
-{{% fig class="full" src="https://farm9.staticflickr.com/8379/8673389705_3b8ae521c5_o_d.jpg" title="I love fog. If there was such a dessert as strawberries with creamy fog, I think that would be my favorite" %}}
+{{% fig class="full" src="https://farm9.staticflickr.com/8379/8673389705_3b8ae521c5_o_d.jpg" title="I love fog. If there was such a dessert as strawberries with creamy fog, I think that would be my favorite" for-sale="true" %}}

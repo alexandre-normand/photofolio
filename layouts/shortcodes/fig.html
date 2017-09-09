@@ -15,4 +15,9 @@
     </figcaption>
     {{ end }}
 </figure>
-<!-- image -->
+
+{{ if isset .Params "for-sale" }}
+<div class="purchase-section">
+    <button class="purchase" data-cp-url="{{ .Get "src" }}">Purchase</button>
+</div>
+{{ end }}

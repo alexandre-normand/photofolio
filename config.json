@@ -19,6 +19,7 @@
     "disqusShortname": "hey-its-alex",
     "theme": "dimension",
     "params": {
+       "canvasPopKey": "3da93ad9ff02f7e54f09ccb12c148b29",
        "style": "dark",
        "description": "Photography from my mind, hearth and eye", 
        "copyright": "&copy;2017 Alexandre Normand",

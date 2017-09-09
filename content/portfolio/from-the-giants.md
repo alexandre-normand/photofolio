@@ -6,4 +6,4 @@ title = "From the Giants"
 weight = 30
 +++
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4333/36296191223_b2d9c7b5a5_o_d.jpg" title="Very handsome sequoia pine cone." %}}
+{{% fig class="full" src="https://farm5.staticflickr.com/4333/36296191223_b2d9c7b5a5_o_d.jpg" title="Very handsome sequoia pine cone" for-sale="true" %}}
