@@ -67,3 +67,26 @@ figcaption
     text-align: justify;
     display: block;
 }
+
+.purchase-section {
+    text-align: right;
+}
+
+.purchase 
+{
+   background-color: #1d93e2;
+   border: none;
+   color: #fafafa;
+   margin-top: 15px;
+   margin-bottom: 15px;
+   margin-right: 15px;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 1.25em;
+}
+
+.purchase:hover {
+  background: #1c5685;
+}

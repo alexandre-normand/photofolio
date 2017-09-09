@@ -32,6 +32,21 @@
 
 </head>
 <body>
+  
+  <div id="cp-store-root" data-cp-settings='{ "access_key": "3da93ad9ff02f7e54f09ccb12c148b29" }'></div>
+<script>
+    (function ( d, s, id ) {
+        var js, cpJs = d.getElementsByTagName( s )[0], t = new Date();
+        if ( d.getElementById( id ) ) return;
+        js = d.createElement( s );
+        js.id = id;
+        js.setAttribute( 'data-cp-url', 'https://store.canvaspop.com' );
+        js.src = 'https://store.canvaspop.com/static/js/cpopstore.js?bust=' + t.getTime();
+        cpJs.parentNode.insertBefore( js, cpJs );
+    }( document, 'script', 'canvaspop-jssdk' ));
+  </script>
+  
+
   <div id="all">
       <div class="container-fluid">
           <div class="row row-offcanvas row-offcanvas-left">
@@ -127,11 +142,17 @@
     
     
     <figcaption>
-        I love little natural pattens like this one. The fact that the stones have frost on them really makes me feel good, for some reason.
+        I love little natural pattens like this one. The fact that the stones have frost on them really makes me feel good, for some reason
         
     </figcaption>
     
 </figure>
+
+
+<div class="purchase-section">
+    <button class="purchase" data-cp-url="https://farm5.staticflickr.com/4378/36920468656_7cde99e0c8_o_d.jpg">Purchase</button>
+</div>
+
 
 
          <div id="disqus_thread"></div>

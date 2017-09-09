@@ -32,6 +32,21 @@
 
 </head>
 <body>
+  
+  <div id="cp-store-root" data-cp-settings='{ "access_key": "3da93ad9ff02f7e54f09ccb12c148b29" }'></div>
+<script>
+    (function ( d, s, id ) {
+        var js, cpJs = d.getElementsByTagName( s )[0], t = new Date();
+        if ( d.getElementById( id ) ) return;
+        js = d.createElement( s );
+        js.id = id;
+        js.setAttribute( 'data-cp-url', 'https://store.canvaspop.com' );
+        js.src = 'https://store.canvaspop.com/static/js/cpopstore.js?bust=' + t.getTime();
+        cpJs.parentNode.insertBefore( js, cpJs );
+    }( document, 'script', 'canvaspop-jssdk' ));
+  </script>
+  
+
   <div id="all">
       <div class="container-fluid">
           <div class="row row-offcanvas row-offcanvas-left">
@@ -127,6 +142,12 @@
     
     
 </figure>
+
+
+<div class="purchase-section">
+    <button class="purchase" data-cp-url="https://farm4.staticflickr.com/3911/14548045635_8f72447a3c_o_d.jpg">Purchase</button>
+</div>
+
 
 
          <div id="disqus_thread"></div>
