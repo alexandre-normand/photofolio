@@ -23,7 +23,7 @@
        "style": "dark",
        "description": "Photography from my mind, hearth and eye", 
        "copyright": "&copy;2017 Alexandre Normand",
-       "sidebarAbout": ["My name is Alexandre Normand. I do some photography when the inspiration comes. Here's some it. I hope you'll find something that speaks to you."],
+       "sidebarAbout": ["My name is Alexandre Normand. I do some photography when the inspiration comes. Here's some of it. I hope you'll find something that speaks to you."],
        "navlinks": [
           {"name": "Home",
            "url": ""
