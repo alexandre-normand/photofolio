@@ -4,6 +4,7 @@
         <img src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
     {{ if .Get "link"}}</a>{{ end }}
     {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
+<!-- title 
     <figcaption>{{ if isset .Params "title" }}
         {{ .Get "title" }}{{ end }}
         {{ if or (.Get "caption") (.Get "attr")}}<p>
@@ -13,6 +14,7 @@
         {{ if .Get "attrlink"}}</a> {{ end }}
         </p> {{ end }}
     </figcaption>
+-->
     {{ end }}
 </figure>
 
