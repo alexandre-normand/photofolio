@@ -14,6 +14,7 @@
        "tag": "tags"
     },
     "baseURL": "http://photo.heyitsalex.net/",
+    "googleAnalytics": "UA-32186861-1",
     "footnotereturnlinkcontents": "↩",
     "canonifyurls": true,
     "disqusShortname": "hey-its-alex",
