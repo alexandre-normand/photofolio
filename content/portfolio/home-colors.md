@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm4.staticflickr.com/3911/14548045635_7aa55a3ca7_z_d.jpg"
+image = "https://dl.dropboxusercontent.com/s/7pjveeq1y2gorx8/Home%20Colors-small.jpg"
 title = "Home Colors"
-weight = 10
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm4.staticflickr.com/3911/14548045635_8f72447a3c_o_d.jpg" for-sale="true"%}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/r2khkmak1eoo6kx/Home%20Colors.jpg" for-sale="true" %}}

@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4412/36944938462_e644269cc9_z_d.jpg"
-title = "The Patience of a Lonely Boat"
-weight = 0
+image = "https://dl.dropboxusercontent.com/s/ubcx6zzwfcxabob/The%20Patience%20of%20a%20Lonely%20Boat-small.jpg"
+title = "The Patience Of A Lonely Boat"
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4412/36944938462_61d2655f95_o_d.jpg" title="Nice boat shot on film" for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/e5w745s6corcymx/The%20Patience%20of%20a%20Lonely%20Boat.jpg" for-sale="true" %}}

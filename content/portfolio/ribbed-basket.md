@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4403/36290131834_d662688cf6_z_d.jpg"
+image = "https://dl.dropboxusercontent.com/s/vue3wxq9ijiswt6/Ribbed%20Basket-small.jpg"
 title = "Ribbed Basket"
-weight = 3
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4403/36290131834_2b98aafe19_o_d.jpg" title="Handmade basket from holly and english ivy" for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/9e2ajdeajsr39ur/Ribbed%20Basket.jpg" for-sale="true" %}}

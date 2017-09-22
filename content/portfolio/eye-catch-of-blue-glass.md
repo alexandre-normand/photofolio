@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4095/4817286146_600ddeb548_z_d.jpg"
-title = "Eye Catch of Blue Glass"
-weight = 60
+image = "https://dl.dropboxusercontent.com/s/dms36gm16hud5xx/Eye%20Catch%20of%20Blue%20Glass-small.jpg"
+title = "Eye Catch Of Blue Glass"
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4095/4817286146_02eb7a9169_o_d.jpg" for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/cqfqu0owqvpy21m/Eye%20Catch%20of%20Blue%20Glass.jpg" for-sale="true" %}}

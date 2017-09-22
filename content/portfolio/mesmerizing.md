@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4342/36718162510_eaa4f00ae6_z_d.jpg"
+image = "https://dl.dropboxusercontent.com/s/sup82p8gosrjaod/Mesmerizing-small.jpg"
 title = "Mesmerizing"
-weight = 40
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4342/36718162510_e69b22b7fc_o_d.jpg" title="I don't normally approve of TV watching for young kids like this boy" for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/ym2727hmljkoxlk/Mesmerizing.jpg" for-sale="true" %}}

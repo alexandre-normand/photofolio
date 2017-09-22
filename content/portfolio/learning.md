@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4425/36926820516_934f036fe0_z_d.jpg"
+image = "https://dl.dropboxusercontent.com/s/rcp2h5rrjz9g1ep/Learning-small.jpg"
 title = "Learning"
-weight = 41
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4425/36926820516_27928563cb_o_d.jpg"  for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/8svo3cb06ub6ih6/Learning.jpg" for-sale="true" %}}

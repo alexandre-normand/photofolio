@@ -5,6 +5,10 @@ This is the source to my [photography portfolio](http://photo.heyitsalex.net).
 
 Uses the pretty cool [Hugo](http://hugo.spf13.com/).
 
+Auto-generating portfolio from dropbox using [foglio](https://github.com/alexandre-normand/foglio)
+--------------------------------------------------------------------------------------------------
+foglio --template ~/projects/photo.heyitsalex.net/template.md --outputDirectory ~/projects/photo.heyitsalex.net/content/portfolio/
+
 Regenerating after content addition
 -----------------------------------
 

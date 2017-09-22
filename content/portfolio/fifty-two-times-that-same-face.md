@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm4.staticflickr.com/3170/3075836255_bbfc70f3d4_z_d.jpg"
-title = "Fifty-two Times that Same Face"
-weight = 52
+image = "https://dl.dropboxusercontent.com/s/wirtmllnu81hzt8/Fifty-two%20Times%20that%20Same%20Face-small.jpg"
+title = "Fifty-Two Times That Same Face"
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm4.staticflickr.com/3170/3075836255_4a7fae7fd2_o_d.jpg" title="A fake album cover inspired by Love is All's Nine Time that Same Song" for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/81gbqgj0ng6lec6/Fifty-two%20Times%20that%20Same%20Face.jpg" for-sale="true" %}}

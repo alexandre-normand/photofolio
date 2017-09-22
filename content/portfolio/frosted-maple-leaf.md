@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4411/36920474366_2da3cf8451_z_d.jpg"
+image = "https://dl.dropboxusercontent.com/s/9hbi4qu5oquu030/Frosted%20Maple%20Leaf-small.jpg"
 title = "Frosted Maple Leaf"
-weight = 10
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4411/36920474366_ec3d1d49b4_o_d.jpg" title="This proved to be one of those distractions that, for a few minutes, provided relief from constantly thinking about the past or the future. I think." for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/fv64wza8mj9fh7r/Frosted%20Maple%20Leaf.jpg" for-sale="true" %}}

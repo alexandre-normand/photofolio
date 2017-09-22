@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4358/36940576122_50dd952a9f_z_d.jpg"
-title = "Wally the Cutting Board"
-weight = 0
+image = "https://dl.dropboxusercontent.com/s/fpiprglsqcoky7z/Wally%20the%20Cutting%20Board-small.jpg"
+title = "Wally The Cutting Board"
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4358/36940576122_44b1d9bc9b_o_d.jpg" title="Handmade cutting board from a gorgeous slab of black walnut" for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/pp8jcl7pznn6tqb/Wally%20the%20Cutting%20Board.jpg" for-sale="true" %}}

@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm3.staticflickr.com/2669/4286351043_ffe8db90d2_z_d.jpg"
-title = "The Adventures of Golden Ponytail"
-weight = 61
+image = "https://dl.dropboxusercontent.com/s/9ne47kc99ugm038/The%20Adventures%20of%20Golden%20Ponytail-small.jpg"
+title = "The Adventures Of Golden Ponytail"
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm3.staticflickr.com/2669/4286351043_8a572965ce_o_d.jpg" for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/afgj0isbmbuxy5a/The%20Adventures%20of%20Golden%20Ponytail.jpg" for-sale="true" %}}

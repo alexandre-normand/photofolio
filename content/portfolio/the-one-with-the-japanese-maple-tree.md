@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4334/36920478726_ee120e8273_z_d.jpg"
-title = "The One With the Japanese Maple Tree"
-weight = 4
+image = "https://dl.dropboxusercontent.com/s/87qa1at10jxmiv3/The%20One%20With%20the%20Japanese%20Maple%20Tree-small.jpg"
+title = "The One With The Japanese Maple Tree"
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4334/36920478726_f38f635f38_o_d.jpg" title="We have a friendly Japanese Maple Tree that is home in our yarn. It's a dwarf tree so it's small and has the shape of an umbrella. This tree makes the perfect small hiding place and/or shelter. As you can tell from the look here, adults might not always be welcome" for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/7yuqsjo4dejvjdq/The%20One%20With%20the%20Japanese%20Maple%20Tree.jpg" for-sale="true" %}}

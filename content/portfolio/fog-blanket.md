@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://farm5.staticflickr.com/4336/36713140930_0c654b865e_z_d.jpg"
+image = "https://dl.dropboxusercontent.com/s/inf3tcnu4jr7qyd/Fog%20Blanket-small.jpg"
 title = "Fog Blanket"
-weight = 8
+weight = 1
 +++
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4336/36713140930_65f4c284d8_o_d.jpg" title="A quiet foggy morning view from Land's End" for-sale="true" %}}
+{{% fig class="full" src="https://dl.dropboxusercontent.com/s/nm0gfgt7ixf6hwt/Fog%20Blanket.jpg" for-sale="true" %}}
