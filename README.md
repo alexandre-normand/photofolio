@@ -7,7 +7,7 @@ Uses the pretty cool [Hugo](http://hugo.spf13.com/).
 
 Auto-generating portfolio from dropbox using [foglio](https://github.com/alexandre-normand/foglio)
 --------------------------------------------------------------------------------------------------
-foglio --template ~/projects/photo.heyitsalex.net/template.md --outputDirectory ~/projects/photo.heyitsalex.net/content/portfolio/
+foglio --template ~/projects/photo.heyitsalex.net/template.md --outputDirectory ~/projects/photo.heyitsalex.net/content/portfolio/ --dropboxPath /photo.heyitsalex.net
 
 Regenerating after content addition
 -----------------------------------
