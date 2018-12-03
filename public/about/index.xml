@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About me on Photo Portfolio</title>
-    <link>http://photo.heyitsalex.net/about/</link>
+    <link>https://photo.heyitsalex.net/about/</link>
     <description>Recent content in About me on Photo Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2017 Alexandre Normand</copyright>
+    <copyright>All rights reserved.</copyright>
     <lastBuildDate>Fri, 08 Sep 2017 11:51:00 -0700</lastBuildDate>
     
-	<atom:link href="http://photo.heyitsalex.net/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://photo.heyitsalex.net/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

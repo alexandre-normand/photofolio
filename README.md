@@ -12,7 +12,7 @@ foglio --template ~/projects/photo.heyitsalex.net/template.md --outputDirectory 
 Regenerating after content addition
 -----------------------------------
 
-```hugo --baseUrl="http://photo.heyitsalex.net/" --config=./config.json```
+```hugo --config=./config.json```
 
 To publish
 ----------
