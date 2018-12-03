@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Photo Portfolio</title>
-    <link>http://photo.heyitsalex.net/categories/</link>
+    <link>https://photo.heyitsalex.net/categories/</link>
     <description>Recent content in Categories on Photo Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2017 Alexandre Normand</copyright>
+    <copyright>All rights reserved.</copyright>
     
-	<atom:link href="http://photo.heyitsalex.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://photo.heyitsalex.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
